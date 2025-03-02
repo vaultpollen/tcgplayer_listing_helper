@@ -4,5 +4,7 @@ This is a TamperMonkey script that is set to run on the TCGPlayer listing page f
 List of hotkeys:
 
 Ctrl+Alt+A - This will select the search box on the inventory add product page and clear all text in it.
+
 Ctrl+Alt+B - This will take the market price of the card and populate either $0.01 less than it or the price floor of $0.10, then select the related quantity field to enter a quantity.
+
 Ctrl+Alt+C - This clicks the save button on the page to add the card(s) to the seller's inventory.
